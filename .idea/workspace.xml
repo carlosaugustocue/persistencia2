@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0739ebc-f217-4433-bdc8-c20800280985" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aplication/CitaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aplication/PacienteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/domain/Cita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/domain/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/infrastructure/CitaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/infrastructure/IDManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/infrastructure/PacienteRepository.java" afterDir="false" />
+    <list default="true" id="f0739ebc-f217-4433-bdc8-c20800280985" name="Changes" comment="Se crea una nueva aplicacion de persistencia para pacientes y citas medicas.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "carlosaugustocue"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/carlosaugustocue/persistencia2",
+    "accountId": "cf38fc9c-932f-4e4e-893d-89145429c12d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -82,6 +83,30 @@
       <option name="presentableId" value="Default" />
       <updated>1726753820783</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se crea una nueva aplicacion de persistencia para pacientes y citas medicas.">
+      <option name="closed" value="true" />
+      <created>1726758554289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726758554289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crea una nueva aplicacion de persistencia para pacientes y citas medicas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea una nueva aplicacion de persistencia para pacientes y citas medicas." />
   </component>
 </project>
