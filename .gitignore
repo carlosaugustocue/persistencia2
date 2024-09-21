@@ -40,3 +40,6 @@ build/
 *.citas.txt
 *.last_id.txt
 *.pacientes.txt
+
+.idea/workspace.xml
+.idea/material_theme_project_new.xml
